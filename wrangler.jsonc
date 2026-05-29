@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "mofuli-co",
+  "name": "projectmofuli",
   "compatibility_date": "2026-05-28",
   "observability": {
     "enabled": true
